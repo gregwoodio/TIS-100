@@ -1,0 +1,40 @@
+@0
+MOV RIGHT, DOWN
+
+@1
+MOV UP, LEFT
+MOV UP, DOWN
+
+@2
+
+
+@3
+
+
+@4
+MOV UP, ACC
+
+@5
+JNZ NZ
+MOV UP, ACC
+MOV ACC, DOWN
+NZ:
+MOV
+
+@6
+
+
+@7
+
+
+@8
+
+
+@9
+MOV UP, RIGHT
+
+@10
+MOV LEFT, DOWN
+
+@11
+
