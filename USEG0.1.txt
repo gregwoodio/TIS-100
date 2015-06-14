@@ -1,0 +1,40 @@
+@0
+
+
+@1
+MOV UP, RIGHT
+MOV DOWN, RIGHT
+
+@2
+MOV LEFT, DOWN
+
+@3
+
+
+@4
+
+
+@5
+MOV RIGHT, UP
+
+@6
+JGZ CONT
+MOV UP, ACC
+CONT:MOV ACC, DOWN
+ADD UP
+MOV ACC, LEFT
+
+@7
+
+
+@8
+
+
+@9
+
+
+@10
+MOV UP, DOWN
+
+@11
+
