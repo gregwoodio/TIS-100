@@ -1,0 +1,31 @@
+@0
+ADD:MOV UP, ACC
+JEZ REM
+MOV ACC, RIGHT
+JMP ADD
+REM:MOV 0, DOWN
+MOV DOWN, ACC
+
+@1
+
+
+@2
+
+
+@3
+MOV UP, RIGHT
+
+@4
+
+
+@5
+
+
+@6
+
+
+@7
+
+
+@8
+

@@ -1,0 +1,34 @@
+@0
+
+
+@1
+MOV UP DOWN
+
+@2
+
+
+@3
+
+
+@4
+
+
+@5
+MOV UP DOWN
+
+@6
+
+
+@7
+
+
+@8
+MOV UP RIGHT
+
+@9
+MOV 0 DOWN
+CHECK:MOV LEFT ACC
+MOV ACC RIGHT
+
+@10
+

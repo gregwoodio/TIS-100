@@ -1,0 +1,46 @@
+@0
+
+
+@1
+MOV UP DOWN
+
+@2
+
+
+@3
+
+
+@4
+MOV UP DOWN
+
+@5
+
+
+@6
+
+
+@7
+
+
+@8
+MOV UP ACC
+JEZ ZERO
+JMP NOTZERO
+ZERO:
+MOV 1 RIGHT
+NOTZERO:
+MOV 0 RIGHT
+
+@9
+RESET:
+MOV -3 ACC
+MOV 0 DOWN
+
+START:
+ADD LEFT
+
+MOV 1 DOWN
+JMP START
+
+@10
+
